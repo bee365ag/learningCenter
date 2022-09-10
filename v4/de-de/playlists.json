@@ -1,6 +1,6 @@
 [
   {
-    "Id": "0c7a8a54-f7fc-4464-8f21-67c961b84f7c",
+    "Id": "6a9894a9-e4f7-4056-8d28-c7189881ecc4",
     "Title": "Einführung",
     "Image": "images/playlists/lists_get_started.png",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
@@ -8,29 +8,52 @@
     "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
     "SubjectId": "",
     "Source": "beeSpaces",
-    "CatId": "4b40845d-fe5f-428f-8970-58455e5bf262",
-    "Description": "Einführung in beeSpaces",
+    "CatId": "b1957010-1dcc-4da5-a1e3-e78011b877dd",
+    "Description": "Einführung in beeSpaces sowie Anforderungen. Mit Informationen zu Sicherheit, Lizenzierung und Bereitstellungs-Optionen",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
-      "ee8076b6-4270-46c7-bd5d-f575b59d9474"
+      "27422ace-3d8c-4e28-b6fb-d5a375e3cb17",
+      "d1f63d1d-0ffc-44fb-9c2f-326ebab8ad82",
+      "a1cdb145-da06-4e73-af52-08a40a1973a6"
     ]
   },
   {
-    "Id": "0c7a8a54-f7fc-4464-8f21-67c961b84f7c",
-    "Title": "Anforderungen",
+    "Id": "3f63a326-fe30-4419-80f8-55549f2379bd",
+    "Title": "Produktinfo",
     "Image": "images/playlists/lists_get_started.png",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
     "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
     "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
     "SubjectId": "",
     "Source": "beeSpaces",
-    "CatId": "4b40845d-fe5f-428f-8970-58455e5bf262",
-    "Description": "Anforderungen von beeSpaces, mit Informationen zu Sicherheit, Lizenzierung und Bereitstellungs-Optionen",
+    "CatId": "b1957010-1dcc-4da5-a1e3-e78011b877dd",
+    "Description": "Informationen zum Produkt, mit Hinweisen zur generellen Architektur sowie Benutzerrollen und Security.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
-      "ee8076b6-4270-46c7-bd5d-f575b59d9474"
+      "5b3cefc7-1579-467a-b1ad-d0065ab64a3e",
+      "f734e7a7-7587-4a5a-9770-6fc656827e7d",
+      "26814f9a-c112-4fcb-8dfb-8b681772b988"
+    ]
+  },
+  {
+    "Id": "",
+    "Title": "Einführung",
+    "Image": "images/playlists/lists_get_started.png",
+    "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+    "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "SubjectId": "",
+    "Source": "beeConnect",
+    "CatId": "c85ea4e9-f062-4eaf-b099-c342a9c2e8db",
+    "Description": "Einführung in beeConnect sowie Anforderungen. Mit Informationen zu Installation sowie Benutzerrollen.",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "ddfcb512-58d5-4c22-8bf2-03d35fd15ff8",
+      "8233cf79-8884-4c86-9843-958c61e95d74",
+      "74b51bfe-4395-4992-a4af-8ddb15799128"
     ]
   }
 ]
