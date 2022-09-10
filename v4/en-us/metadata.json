@@ -2,11 +2,11 @@
   "Technologies": [
     {
       "Id": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
-      "Name": "beeSpaces",
+      "Name": "beeConnect",
       "Subjects": []
     },
     {
-      "Id": "c15c2729-22b4-464b-ba9a-1052d88e2bf4",
+      "Id": "b1957010-1dcc-4da5-a1e3-e78011b877dd",
       "Name": "beeSpaces",
       "Subjects": [
         {
@@ -46,8 +46,17 @@
       "Source": "bee365",
       "SubCategories": [
         {
-          "Id": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+          "Id": "b1957010-1dcc-4da5-a1e3-e78011b877dd",
           "Name": "beeSpaces",
+          "Image": "images/categories/outlook.png",
+          "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+          "SubjectId": "",
+          "Source": "bee365",
+          "SubCategories": []
+        },
+        {
+          "Id": "c85ea4e9-f062-4eaf-b099-c342a9c2e8db",
+          "Name": "beeConnect",
           "Image": "images/categories/outlook.png",
           "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
           "SubjectId": "",
