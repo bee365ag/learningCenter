@@ -36,5 +36,24 @@
       "f734e7a7-7587-4a5a-9770-6fc656827e7d",
       "26814f9a-c112-4fcb-8dfb-8b681772b988"
     ]
+  },
+  {
+    "Id": "",
+    "Title": "Einführung",
+    "Image": "images/playlists/lists_get_started.png",
+    "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+    "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+    "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+    "SubjectId": "",
+    "Source": "beeConnect",
+    "CatId": "c85ea4e9-f062-4eaf-b099-c342a9c2e8db",
+    "Description": "",
+    "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
+    "StatusNote": "",
+    "Assets": [
+      "ddfcb512-58d5-4c22-8bf2-03d35fd15ff8",
+      "8233cf79-8884-4c86-9843-958c61e95d74",
+      "74b51bfe-4395-4992-a4af-8ddb15799128"
+    ]
   }
 ]
