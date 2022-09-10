@@ -1,12 +1,67 @@
 [
   {
-    "Id": "ee8076b6-4270-46c7-bd5d-f575b59d9474",
+    "Id": "27422ace-3d8c-4e28-b6fb-d5a375e3cb17",
+    "Title": "Einführung von beeSpaces",
+    "Description": "",
+    "Url": "https://bee365ag.github.io/bee365ag/beeSpaces/intro/",
+    "TechnologyId": "b1957010-1dcc-4da5-a1e3-e78011b877dd",
+    "SubjectId": "",
+    "Source": "beeSpaces",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "d1f63d1d-0ffc-44fb-9c2f-326ebab8ad82",
     "Title": "Anforderungen von beeSpaces",
     "Description": "",
     "Url": "https://bee365ag.github.io/bee365ag/beeSpaces/intro/prerequisites/",
-    "TechnologyId": "",
+    "TechnologyId": "b1957010-1dcc-4da5-a1e3-e78011b877dd",
     "SubjectId": "",
-    "Source": "bee365",
+    "Source": "beeSpaces",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "a1cdb145-da06-4e73-af52-08a40a1973a6",
+    "Title": "Installationshinweise",
+    "Description": "",
+    "Url": "https://bee365ag.github.io/bee365ag/beeSpaces/intro/installation/",
+    "TechnologyId": "b1957010-1dcc-4da5-a1e3-e78011b877dd",
+    "SubjectId": "",
+    "Source": "beeSpaces",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "5b3cefc7-1579-467a-b1ad-d0065ab64a3e",
+    "Title": "Produktinfo",
+    "Description": "",
+    "Url": "https://bee365ag.github.io/bee365ag/beeSpaces/product/",
+    "TechnologyId": "b1957010-1dcc-4da5-a1e3-e78011b877dd",
+    "SubjectId": "",
+    "Source": "beeSpaces",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "f734e7a7-7587-4a5a-9770-6fc656827e7d",
+    "Title": "Architektur",
+    "Description": "",
+    "Url": "https://bee365ag.github.io/bee365ag/beeSpaces/product/architecture/",
+    "TechnologyId": "b1957010-1dcc-4da5-a1e3-e78011b877dd",
+    "SubjectId": "",
+    "Source": "beeSpaces",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "26814f9a-c112-4fcb-8dfb-8b681772b988",
+    "Title": "Benutzer & Security",
+    "Description": "",
+    "Url": "https://bee365ag.github.io/bee365ag/beeSpaces/product/users-security/",
+    "TechnologyId": "b1957010-1dcc-4da5-a1e3-e78011b877dd",
+    "SubjectId": "",
+    "Source": "beeSpaces",
     "StatusTagId": "",
     "StatusNote": ""
   }
