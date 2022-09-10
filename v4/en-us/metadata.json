@@ -37,6 +37,25 @@
     }
   ],
   "Categories": [
+    {
+      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Name": "Produkte",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "bee365",
+      "SubCategories": [
+        {
+          "Id": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+          "Name": "beeSpaces",
+          "Image": "images/categories/outlook.png",
+          "TechnologyId": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
+          "SubjectId": "",
+          "Source": "bee365",
+          "SubCategories": []
+        }
+      ]
+    }
   ],
   "Audiences": [
     {
