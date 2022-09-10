@@ -28,7 +28,7 @@
     "SubjectId": "",
     "Source": "beeSpaces",
     "CatId": "b1957010-1dcc-4da5-a1e3-e78011b877dd",
-    "Description": "",
+    "Description": "Informationen zum Produkt, mit Hinweisen zur generellen Architektur sowie Benutzerrollen und Security.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
@@ -47,7 +47,7 @@
     "SubjectId": "",
     "Source": "beeConnect",
     "CatId": "c85ea4e9-f062-4eaf-b099-c342a9c2e8db",
-    "Description": "",
+    "Description": "Einführung in beeConnect sowie Anforderungen. Mit Informationen zu Installation sowie Benutzerrollen.",
     "StatusTagId": "c11c485b-496d-479b-88a3-1744a7a028d7",
     "StatusNote": "",
     "Assets": [
