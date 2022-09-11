@@ -3,7 +3,20 @@
     {
       "Id": "016a561b-1c7a-4528-b0b7-96fcb556a1e1",
       "Name": "beeConnect",
-      "Subjects": []
+      "Subjects": [
+        {
+          "Id": "92b88ccd-cff9-4b07-86ba-57f3be8abb07",
+          "Name": "Einführung"
+        },
+        {
+          "Id": "6f4b1f81-2a8e-48e7-94b3-3f92d4f700dd",
+          "Name": "Technische Spezifikation"
+        },
+        {
+          "Id": "701cbd53-98f6-477e-8d35-bf42fd7f29dd",
+          "Name": "User Adoption"
+        }
+      ]
     },
     {
       "Id": "b1957010-1dcc-4da5-a1e3-e78011b877dd",
@@ -15,23 +28,11 @@
         },
         {
           "Id": "2a5f3071-3cf3-45f0-949a-cafc07af413b",
-          "Name": "Anforderungen"
-        },
-        {
-          "Id": "41128013-96b4-442f-b44f-a30b232a2782",
-          "Name": "Installationshinweise"
-        },
-        {
-          "Id": "839db42f-02e6-4d57-93c2-b061f8075c95",
-          "Name": "Produktinfos"
-        },
-        {
-          "Id": "c0af989f-3c4b-4f6f-ba58-7f2a335cb445",
-          "Name": "Architektur"
+          "Name": "Technische Spezifikation"
         },
         {
           "Id": "e772e866-7b81-4e5c-bfad-36aa9ee98eaf",
-          "Name": "Benutzer & Security"
+          "Name": "User Adoption"
         }
       ]
     }
